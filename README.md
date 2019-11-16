@@ -8,4 +8,6 @@ It's tested on Ubuntu 18.04.1. It should work on most Linux-based systems. Feel 
 * Either wget or curl
 
 ## Usage
-`bash ./tor_check <ip>`
+```bash
+./tor_check <ip>
+```

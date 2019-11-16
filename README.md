@@ -6,3 +6,7 @@ It's tested on Ubuntu 18.04.1. It should work on most Linux-based systems. Feel 
 
 ## Dependencies
 * Either wget or curl
+
+## Usage
+./tor_check <ip>
+  ex: ./tor_check 6.6.6.6
